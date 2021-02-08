@@ -13,7 +13,7 @@ React functional calculator
   * CSS
   * ES6
 
-## See a live demo soon
+## See a live demo [Here](https://flakster-calculator.herokuapp.com/)
 
 ## Show your support
 Give a ⭐️ if you like this project!
