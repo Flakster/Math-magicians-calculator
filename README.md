@@ -1,5 +1,6 @@
 # React Calculator
 React functional calculator
+
 ![calculator](https://user-images.githubusercontent.com/53324035/107271922-ec3c4980-6a1a-11eb-82b3-402cc5254117.png)
 
 ## Built with 
