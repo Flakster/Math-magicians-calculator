@@ -1,13 +1,12 @@
-import React from 'react'
-import ReactDom from 'react-dom'
+import React from 'react';
+import Display from './Display';
+import ButtonPanel from './ButtonPanel';
 
-function App(){
-  render(){
-    return(
-      <React.Fragment>
-        <Display />
-        <ButtonPannel />
-      </React.Fragment>
-    )
-  }
-}
+const App = () => (
+  <div className="App">
+    <Display />
+    <ButtonPanel />
+  </div>
+);
+
+export default App;

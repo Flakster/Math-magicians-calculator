@@ -1,14 +1,16 @@
 import React from 'react';
-import PropTypes  from 'prop-types';
+import PropTypes from 'prop-types';
 
-function Button(props){
-  return(
-    <div>{props.buttonName}</div>
-  )
+function Button(props) {
+  const { buttonName } = props;
+  return (
+    <div>{ buttonName }</div>
+  );
 }
 
-Button.PropTypes = {
-  buttonName: PropTypes.string
-}
+Button.propTypes = {
+  buttonName: PropTypes.string,
+};
+Button.defaultProps = { buttonName: '' };
 
 export default Button;
