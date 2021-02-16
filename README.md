@@ -34,7 +34,7 @@ To get a local copy of this project up and running do the following.
 
    ```git clone``` 
     
-    and right away paste the copied address and hit enter
+  and right away paste the copied address and hit enter
     
   * A new directory for this repository will be created. Get into this directory
     by typing 
