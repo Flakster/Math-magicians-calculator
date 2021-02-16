@@ -32,7 +32,7 @@ To get a local copy of this project up and running do the following.
 
   * On your local machine open a command terminal, type
 
-   ```git clone``` 
+    ```git clone``` 
     
   and right away paste the copied address and hit enter
     
