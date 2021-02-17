@@ -29,7 +29,7 @@ function ButtonPanel() {
         <Button buttonName="+" />
       </div>
       <div className="button-row">
-        <Button buttonName="0" color="grey" size="big" />
+        <Button buttonName="0" color="grey" wide="true" />
         <Button buttonName="." color="grey" />
         <Button buttonName="=" />
       </div>
