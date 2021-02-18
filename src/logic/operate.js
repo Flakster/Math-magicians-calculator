@@ -18,7 +18,7 @@ const operate = (numberOne, numberTwo, operation) => {
       result = number1 / number2;
       break;
     case '%':
-      result = number1 + 0.01;
+      result = number1 * 0.01;
       break;
     default:
       result = 0;
