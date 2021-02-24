@@ -6,19 +6,20 @@ const operate = (numberOne, numberTwo, operation) => {
   let result = Big(0);
   switch (operation) {
     case '+':
-      result = number1 + number2;
+      result = number1.plus(number2).toString();
       break;
     case '-':
-      result = number1 - number2;
+      result = number1.minus(number2).toString();
       break;
     case 'x':
-      result = number1 * number2;
+      result = number1.times(number2).toString();
       break;
     case '÷':
-      result = number1 / number2;
-      break;
-    case '%':
-      result = number1 * 0.01;
+      try {
+        result = number1.div(number2).toString();
+      } catch {
+        result = 'Error';
+      }
       break;
     default:
       result = 0;
