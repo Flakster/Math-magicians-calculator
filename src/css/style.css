@@ -1,0 +1,43 @@
+.app-box {
+  width: 700px;
+}
+
+.button-panel-box {
+  display: flex;
+  flex-direction: column;
+}
+
+.button-row {
+  width: 100%;
+  height: 100px;
+}
+
+.button-box {
+  font-size: 3rem;
+  border: 1px solid rgb(41, 35, 35);
+  height: 100%;
+}
+
+.small-button {
+  width: 25%;
+}
+
+.big-button {
+  width: 50%;
+}
+
+.orange-button {
+  background-color: orange;
+}
+
+.display-box {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  font-size: 3rem;
+  font-weight: bolder;
+  height: 100px;
+  background-color: grey;
+  color: white;
+  padding: 5px;
+}

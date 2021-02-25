@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# React Calculator
+React functional calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![calculator](https://user-images.githubusercontent.com/53324035/107271922-ec3c4980-6a1a-11eb-82b3-402cc5254117.png)
 
-## Available Scripts
+## Built with 
 
-In the project directory, you can run:
+  * Node.js
+  * React
+  * React-DOM
+  * React-Create-App
+  * npm
+  * CSS
+  * ES6
 
-### `yarn start`
+## See a live demo [Here](https://flakster-calculator.herokuapp.com/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Prerequisites
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+  * Node.js
+  * Web Browser
+  * Command terminal
 
-### `yarn test`
+## Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To get a local copy of this project up and running do the following.
 
-### `yarn build`
+  * Look for the green Code button upper on this page and click on it. Then
+    copy the repository address by clicking on the clip button
+    
+![clone_calculator](https://user-images.githubusercontent.com/53324035/108081218-b280c980-703e-11eb-863a-dfa9a3b9b99d.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  * On your local machine open a command terminal, type
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    ```git clone``` 
+    
+  and right away paste the copied address and hit enter
+    
+  * A new directory for this repository will be created. Get into this directory
+    by typing 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    ```cd Math-magicians-calculator``` 
+  
+  * Once there type 
 
-### `yarn eject`
+    ```npm start```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+    Your default browser will open the app in http://localhost:3000/  
+    You can also perform this last step manually
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Show your support
+Give a ⭐️ if you like this project!
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Author
 
-## Learn More
+👤 Carlos Santamaría
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* Twitter: [@Flakster](https://twitter.com/Flakster )
+* Github: [@Flakster](https://github.com/Flakster)
+* Linkedin: [@cjsb](https://www.linkedin.com/in/cjsb)
