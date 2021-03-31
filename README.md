@@ -58,4 +58,4 @@ Give a ⭐️ if you like this project!
 
 * Twitter: [@Flakster](https://twitter.com/Flakster )
 * Github: [@Flakster](https://github.com/Flakster)
-* Linkedin: [@cjsb](https://www.linkedin.com/in/cjsb)
+* Linkedin: [www.linkedin.com/in/cjsb](https://www.linkedin.com/in/cjsb)
