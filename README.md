@@ -54,7 +54,7 @@ Give a ⭐️ if you like this project!
 
 ## Author
 
-👤 Carlos Santamaría
+👤 Carlos J. Santamaría
 
 * Twitter: [@Flakster](https://twitter.com/Flakster )
 * Github: [@Flakster](https://github.com/Flakster)
