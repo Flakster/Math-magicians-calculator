@@ -6,7 +6,7 @@ React functional calculator
 ## Built with 
 
   * Node.js
-  * React
+  * React JS
   * React-DOM
   * React-Create-App
   * npm
